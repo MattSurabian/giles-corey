@@ -1,0 +1,12 @@
+{
+  "name": "giles-corey",
+  "version": "1.0.0",
+  "description": "A classy utlity that tells you how much of your hard drive is taken up by node_modules directories.",
+  "main": "index.js",
+  "repository": "https://github.com/mattsurabian/giles-corey",
+  "bin": {
+    "giles-corey": "./index.js"
+  },
+  "author": "Matt Surabian <matt@mattsurabian.com> (https://mattsurabian.github.io)",
+  "license": "MIT"
+}
